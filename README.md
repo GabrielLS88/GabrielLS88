@@ -5,7 +5,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lopes-968b111a5/)
 
 
-![Gabriel Lopes Souza](https://github-readme-stats.vercel.app/api?username=GabrielLS88&show_icons=true&theme=dark) ![Linguagems no reposítorio](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLS88&size_weight=0.5&count_weight=0.5)
+![Gabriel Lopes Souza](https://github-readme-stats.vercel.app/api?username=GabrielLS88&show_icons=true&theme=dark) ![Linguagems no reposítorio](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLS88&size_weight=0.3&count_weight=0.3)
 
 
 ##Sistemas Operacionais
