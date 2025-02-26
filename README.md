@@ -1,4 +1,5 @@
-### Olá! Meu nome é Gabriel e sou desenvolvedor de software com 1 ano e 5 meses de experiência. Ao longo da minha trajetória, venho aprimorando minhas habilidades técnicas e adquirindo novas competências. Meu perfil no GitHub contém meus commits e projetos, onde você pode conhecer melhor minhas habilidades técnicas e soft skills na prática.
+### Gabriel Lopes
+Olá! Meu nome é Gabriel e sou desenvolvedor de software com 1 ano e 5 meses de experiência. Ao longo da minha trajetória, venho aprimorando minhas habilidades técnicas e adquirindo novas competências. Meu perfil no GitHub contém meus commits e projetos, onde você pode conhecer melhor minhas habilidades técnicas e soft skills na prática.
 
 Redes Sociais
 
